@@ -1,0 +1,3 @@
+crear proyecto comando: npx create-react-app bases --template typescript
+levantar app: yarn start
+crear funcion: rafc
